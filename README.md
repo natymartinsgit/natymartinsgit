@@ -8,11 +8,7 @@
 
 ###
 
-<p align="left">Um pouco sobre mim<br>🔹🔧 Atualmente, estou Estudando: Faço ADS<br>🔹📚 Na onda de aprender: front-end</p>
-
-###
-
-<p align="center">Vamos nos conectar!<br>Se você é novo na área como eu ou tem alguma dica para compartilhar, adoraria ouvir de você! Vamos juntos nessa jornada de aprendizado e troca de conhecimento! 🚀</p>
+<p align="left">Sobre mim:<br>🤓Atualmente estou cursando Análise e Desenvolvimento de Sistemas e focando em front-end.<br>Se você também está começando ou tem dicas para compartilhar, ficarei feliz em ouvir! Vamos juntos nessa jornada de aprendizado e troca de conhecimento!  🚀</p>
 
 ###
 
