@@ -20,7 +20,9 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <a href="https://www.linkedin.com/in/nat%C3%A1lia-martins-naty-martins-8757a728a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -34,14 +36,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=natymartinsgit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="131" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natymartinsgit&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=radical&hide_border=false&order=2" height="105" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -57,9 +58,14 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=natymartinsgit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="131" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natymartinsgit&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=radical&hide_border=false&order=2" height="105" alt="languages graph"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/natymartinsgit/natymartinsgit/output/snake.svg" alt="Snake animation" />
 
