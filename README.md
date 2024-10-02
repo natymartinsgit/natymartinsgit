@@ -58,3 +58,11 @@
 <img src="https://raw.githubusercontent.com/natymartinsgit/natymartinsgit/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31hbygfr6zzedl77of4d7r4652be">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hbygfr6zzedl77of4d7r4652be&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
